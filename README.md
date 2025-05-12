@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Link to the webpage: https://jiseong-na.github.io/Jiseong-Na/
+
+A lot needed to be fixed as of 12th May, 2025.
 <!--
 **Jiseong-Na/Jiseong-Na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
